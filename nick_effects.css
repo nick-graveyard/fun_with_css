@@ -1,4 +1,8 @@
 
+/*
+  The tape class adds a piece of tape to the item it contains.
+*/
+
 .tape{
   display:inline-block;
   position:relative;
